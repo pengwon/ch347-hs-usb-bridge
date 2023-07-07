@@ -4,6 +4,10 @@
 
 CH347 USB High Speed Bridge 是基于沁恒[CH347](https://www.wch.cn/products/CH347.html)芯片设计的一款调试利器，支持高速USB，可以实现USB to UART，USB to SPI，USB to I2C，USB JTAG，USB to GPIO。
 
+![TOP](img/SMT2306162343_T.png)
+
+![BOTTOM](img/SMT2306162343_B.png)
+
 ## 特性
 
 ### 概况
