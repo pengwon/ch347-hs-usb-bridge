@@ -80,6 +80,10 @@ K1、K2按下输出低电平，松开输出高电平。下表'0'表示按下，'
 - [PCB](./pcb/)
 - [外壳](./3d/)
 
+## 调试记录
+
+1. [CH347动态库封装实例](https://mp.weixin.qq.com/s?__biz=MzA3NzMyNTIyOA==&mid=2651481701&idx=1&sn=2ddf1ce70703550bbcaeb7bed4aa0211&chksm=84ad70a6b3daf9b036b859b8b4c621c7a8db6a32ca1e04bd9369b7dc125e17ed16f3ebddc608#rd)
+
 ## 相关项目
 
 - [WIP] [CH347芯片python库](https://github.com/pengwon/pych347)
