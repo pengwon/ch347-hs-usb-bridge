@@ -10,6 +10,8 @@ CH347 USB High Speed Bridge 是基于沁恒[CH347](https://www.wch.cn/products/C
 
 ![BOTTOM](img/SMT2306162343_B.png)
 
+![实物图](img/实物图.jpg)
+
 ## 特性
 
 ### 概况
@@ -75,6 +77,8 @@ K1、K2按下输出低电平，松开输出高电平。下表'0'表示按下，'
 上电默认为模式0；按住K1再按RST复位，切换到模式1；按住K2再按RST复位，切换到模式2；同时按住K1、K2再按RST复位，切换到模式3。
 
 ## PINOUT
+
+![PINOUT](img/PINOUT.jpg)
 
 ## 目录结构
 
