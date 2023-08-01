@@ -95,3 +95,7 @@ K1、K2按下输出低电平，松开输出高电平。下表'0'表示按下，'
 ## 相关项目
 
 - [WIP] [CH347芯片python库](https://github.com/pengwon/pych347)
+
+## 省心购买
+
+- [淘宝](https://item.taobao.com/item.htm?ft=t&id=728211233931)
