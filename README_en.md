@@ -90,4 +90,4 @@ On power-up, the default mode is Mode 0. Hold down K1 and press RST to switch to
 
 ## Related Projects
 
-- [WIP] [CH347 Python Library](https://github.com/pengwon/pych347)
+- [WIP] [CH347 Python Library](https://github.com/pengwon/ch347-py)
